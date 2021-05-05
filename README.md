@@ -7,6 +7,6 @@
 2. edit Brewfile and remove unnecessary stuff
 ## install everything from the Brewfile
 
-```
+```console
 brew bundle install
 ```
