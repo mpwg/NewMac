@@ -26,7 +26,6 @@ cask "bettertouchtool"
 cask "big-mean-folder-machine"
 cask "clipgrab"
 cask "default-folder-x"
-cask "fig"
 cask "firefox"
 cask "go64"
 cask "gog-galaxy"
@@ -73,7 +72,6 @@ mas "Pastebot", id: 1179623856
 mas "PCalc", id: 403504866
 mas "PDF Archiver", id: 1433801905
 mas "Pixelmator Pro", id: 1289583905
-mas "Playgrounds", id: 1496833156
 mas "Prime Video", id: 545519333
 mas "StopTheMadness", id: 1376402589
 mas "Twitter", id: 1482454543
