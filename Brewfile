@@ -6,6 +6,7 @@ tap "homebrew/services"
 brew "aria2"
 brew "erdtree"
 brew "exa"
+brew "icu4c@76"
 brew "sdl2"
 brew "ffmpeg"
 brew "fswatch"
@@ -44,6 +45,7 @@ cask "default-folder-x"
 cask "diffusionbee"
 cask "discord"
 cask "firefox"
+cask "freetube"
 cask "go64"
 cask "gog-galaxy"
 cask "google-chrome"
@@ -53,7 +55,7 @@ cask "istat-menus"
 cask "iterm2"
 cask "latest"
 cask "launchcontrol"
-cask "logi-options-plus"
+cask "logi-options+"
 cask "lunasea"
 cask "macwhisper"
 cask "makemkv"
@@ -80,8 +82,9 @@ cask "vlc"
 cask "vuescan"
 cask "winclone"
 mas "1Blocker", id: 1365531024
-mas "1Password for Safari", id: 1569813296
+mas "Access", id: 6469049274
 mas "Baking Soda", id: 1601151613
+mas "Balatro+", id: 6502451661
 mas "Broadcasts", id: 1469995354
 mas "Consent-O-Matic", id: 1606897889
 mas "CotEditor", id: 1024640650
@@ -92,9 +95,11 @@ mas "Freeciv Go", id: 1514658494
 mas "Ice Cubes", id: 6444915884
 mas "iMovie", id: 408981434
 mas "Infuse", id: 1136220934
+mas "Jet Dragon", id: 1621510770
 mas "Keynote", id: 409183694
-mas "Microsoft Remote Desktop", id: 1295203466
+mas "Kingdoms: Merge & Build", id: 1636872154
 mas "Mona", id: 1659154653
+mas "Noir", id: 1592917505
 mas "Numbers", id: 409203825
 mas "Outlanders 2", id: 1614682164
 mas "Pages", id: 409201541
@@ -113,6 +118,7 @@ mas "The Unarchiver", id: 425424353
 mas "Vidimote", id: 1585702412
 mas "Vinegar", id: 1591303229
 mas "Whisper Transcription", id: 1668083311
+mas "Windows App", id: 1295203466
 mas "‎WhatsApp", id: 310633997
 vscode "esbenp.prettier-vscode"
 vscode "janisdd.vscode-edit-csv"
@@ -123,5 +129,6 @@ vscode "ms-ceintl.vscode-language-pack-de"
 vscode "remisa.shellman"
 vscode "rogalmic.bash-debug"
 vscode "rpinski.shebang-snippets"
+vscode "semanticdiff.semanticdiff"
 vscode "timonwong.shellcheck"
 vscode "vscode-icons-team.vscode-icons"
